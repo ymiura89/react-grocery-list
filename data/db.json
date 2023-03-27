@@ -11,14 +11,14 @@
       "item": "Pizza"
     },
     {
-      "id": 3,
-      "checked": false,
-      "item": "Bread"
-    },
-    {
       "id": 4,
       "checked": false,
       "item": "Cookies"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "Candy"
     }
   ]
 }
